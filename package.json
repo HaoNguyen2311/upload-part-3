@@ -1,0 +1,25 @@
+{
+  "name": "react-easy-crop",
+  "version": "1.0.0",
+  "description": "A React component to crop images/videos with easy interactions",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "3.9.3",
+    "@material-ui/lab": "3.0.0-alpha.30",
+    "get-orientation": "1.1.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-easy-crop": "latest",
+    "react-modal": "3.12.1",
+    "react-scripts": "1.1.4",
+    "styled-components": "5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
